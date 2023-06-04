@@ -1,8 +1,5 @@
-<p align="center"> 
-<a PENGSTAR (Pengajuan Startup) - KP Universitas Hasanuddin></a>
-</p>
+PENGSTAR (Pengajuan Startup) - Kerja Praktek Universitas Hasanuddin
 
-<p
-<a Muhammad Zulfikar Aris - D121191064
-Azzahra Zalzabila AR - D121191029 ></a>
-</p>
+Muhammad Zulfikar Aris - D121191064
+
+Azzahra Zalzabila AR - D121191029
